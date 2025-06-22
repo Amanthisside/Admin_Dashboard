@@ -25,7 +25,6 @@ A modern, responsive Admin Dashboard built with **React**, offering customizable
 |--------------------|----------------------------------------|
 | **React.js**       | UI library for building user interfaces |
 | **Tailwind CSS**   | Utility-first CSS for styling           |
-| **Ant Design / MUI** (optional) | UI components and layouts |
 | **Recharts / Chart.js** | Data visualization                |
 | **FullCalendar**   | Calendar and event management           |
 | **React Router**   | Page routing                            |
@@ -117,5 +116,4 @@ Deployed via **[Vercel](https://vercel.com/)**. Easily scalable and CI/CD enable
 - [x] Charting integration
 - [x] Calendar with scheduling
 - [x] Kanban drag-and-drop
-- [ ] Notifications and Toasts
-- [ ] Role-based access
+
