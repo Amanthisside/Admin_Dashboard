@@ -1,6 +1,6 @@
 # ⚙️ React Admin Dashboard
 
-A modern, responsive Admin Dashboard built with **React**, offering customizable themes, dynamic tables, interactive charts, Kanban boards, calendars, and more. Designed for performance, usability, and clean UI.
+A modern, responsive Admin Dashboard built with **React**, offering customizable themes, dynamic tables, interactive charts, Kanban boards, calendars, and more. Designed for performance, usability, and clean UI. 
 
 🌐 [Live Demo](https://admin-dashboard-rosy-rho.vercel.app/)
 
