@@ -9,7 +9,7 @@ import Calendar from './pages/Calendar';
 import Kanban from './pages/Kanban';
 import Footer from './components/Footer';
 import { ThemeProvider } from './context/ThemeContext';
-
+ 
 function App() {
   const [sidebarOpen, setSidebarOpen] = useState(false);
 
